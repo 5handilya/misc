@@ -1,6 +1,6 @@
 # === CONFIGURATION ===
 SOURCE_DIR="$HOME/code"
-DEST_DIR="/alx_thor_pool_1/backups/code"
+DEST_DIR="/alx_thor_pool_1/backups/"
 EXCLUDES_FILE="./rsync_excludes.txt"
 LOG_FILE="./rsync_backup.log"
 
