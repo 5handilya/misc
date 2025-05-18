@@ -1,0 +1,2 @@
+rsync: [client] failed to open exclude file ./rsync_excludes.txt: No such file or directory (2)
+rsync error: error in file IO (code 11) at exclude.c(1482) [client=3.4.1]
